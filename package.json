@@ -1,8 +1,8 @@
 {
   "name": "paginasweb",
   "version": "1.0.0",
-  "description": "> Un país, una civilización se puede juzgar por la forma en que trata a sus animales.  — Mahatma Gandhi ----------",
-  "main": "gulpfile.js",
+  "description": "",
+  "main": "",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
