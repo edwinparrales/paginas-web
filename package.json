@@ -1,0 +1,19 @@
+{
+  "name": "paginasweb",
+  "version": "1.0.0",
+  "description": "> Un país, una civilización se puede juzgar por la forma en que trata a sus animales.  — Mahatma Gandhi ----------",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edwinparrales/paginas-web.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edwinparrales/paginas-web/issues"
+  },
+  "homepage": "https://github.com/edwinparrales/paginas-web#readme"
+}
