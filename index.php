@@ -78,7 +78,7 @@
             <li>Mantemiento correctivo y preventivo de computadores </li>
             <li>Ensamble de computadores</li>
             <li>Desarrollador Backend Java</li>
-            <li>Desarrollador Frontend Html Js Css Angular/li>
+            <li>Desarrollador Frontend Html Js Css Angular</li>
           </ul>
         </div>
       </div>
